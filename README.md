@@ -1,9 +1,9 @@
 <html>
     <head>
-        <title>Praktikum 1</title>
+        <title></title>
     </head>
     <body>
-        <h1>Hello World</h1>
+        <h1>Pemrograman-Web1</h1>
         <hr>
     </body>
 </html>
