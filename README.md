@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title></title>
+  
     </head>
     <body>
         <h1>Pemrograman-Web1</h1>
